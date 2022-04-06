@@ -1,0 +1,3 @@
+Quick, short project to calculate remaining activity of the various isotopes of radioactive material released in the Chornobyl disaster.
+
+Initial activity is the amount released during the disaster, measured in petabecquerels. Half-lives are given measured in days.
